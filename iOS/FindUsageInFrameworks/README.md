@@ -3,5 +3,5 @@
 For example, if you want to find all frameworks that are using 'UIWebView':
 
 ```
-sh fundUsageInFrameworks.sh UIWebView
+sh findUsageInFrameworks.sh UIWebView
 ```

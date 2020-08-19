@@ -1,7 +1,6 @@
 #!/bin/sh
 
 # The script will try to find usage of a given argument in all frameworks located in a current folder recursively.
-# sh 
 
 SEARCH_VALUE=$1
 
